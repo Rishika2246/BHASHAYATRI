@@ -1,0 +1,13 @@
+openai>=1.0.0
+elevenlabs>=1.0.0  # Make sure we have the correct version
+assemblyai>=0.15.0
+python-dotenv>=1.0.0
+requests>=2.28.0
+pygame>=2.5.0
+pydub>=0.25.1
+sounddevice>=0.4.6
+numpy>=1.24.0
+pyaudio>=0.2.11
+pyttsx3>=2.90
+vosk>=0.3.45
+pytest>=7.0.0
